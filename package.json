@@ -1,0 +1,23 @@
+{
+  "name": "polyglot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjfitzgibbons/frest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjfitzgibbons/frest/issues"
+  },
+  "homepage": "https://github.com/pjfitzgibbons/frest#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.15"
+  }
+}

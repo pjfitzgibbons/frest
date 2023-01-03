@@ -1,0 +1,9 @@
+{
+    "ocaml.sandbox": {
+        "kind": "opam",
+        "switch": "default"
+    },
+    "crystal.specCommand": "crystal spec --error-trace",
+    "crytal.specSaveFile": true,
+    "crystal.specClearTerminal": false
+}

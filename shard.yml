@@ -10,4 +10,11 @@ targets:
 
 crystal: 1.6.2
 
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+  spectator:
+    gitlab: arctic-fox/spectator
+
 license: MIT

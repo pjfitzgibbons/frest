@@ -1,2 +1,1 @@
-require "spec"
-require "../src/frest"
+require "spectator"
